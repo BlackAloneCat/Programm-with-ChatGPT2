@@ -1,0 +1,41 @@
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\Programm with ChatGPT.exe.config
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\Programm with ChatGPT.exe
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\Programm with ChatGPT.pdb
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Programm with ChatGPT.csproj.AssemblyReference.cache
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Programm with ChatGPT.csproj.SuggestedBindingRedirects.cache
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\MainWindow.g.cs
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\App.g.cs
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Programm with ChatGPT_MarkupCompile.cache
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Programm with ChatGPT_MarkupCompile.lref
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\MainWindow.baml
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Programm with ChatGPT.g.resources
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Programm_with_ChatGPT.Properties.Resources.resources
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Programm with ChatGPT.csproj.GenerateResource.cache
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Programm with ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Programm with ChatGPT.exe
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Programm with ChatGPT.pdb
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Window1.g.cs
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Window1.baml
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\Newtonsoft.Json.dll
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Buffers.dll
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Memory.dll
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Text.Json.dll
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.ValueTuple.dll
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\Newtonsoft.Json.xml
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Buffers.xml
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Memory.xml
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Text.Json.xml
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\School3\source\repos\Programm with ChatGPT\bin\Debug\System.ValueTuple.xml
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\WindowRegister.g.cs
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\WindowRegister.baml
+C:\Users\School3\source\repos\Programm with ChatGPT\obj\Debug\Programm with ChatGPT.csproj.CopyComplete

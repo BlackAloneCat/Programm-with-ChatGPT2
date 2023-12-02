@@ -1,0 +1,32 @@
+﻿<Window x:Class="Programm_with_ChatGPT.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Programm_with_ChatGPT"
+        mc:Ignorable="d"
+        Title="Window1" Height="600" Width="700">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <StackPanel Grid.ColumnSpan="6" Background="Black" ></StackPanel>
+        <TextBlock Grid.Column="1" Grid.ColumnSpan="4" Text="Настройки:" Foreground="White" FontSize="85" ></TextBlock>
+        <TextBlock Grid.Row="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Ip-Ключ для ChatGPT:" FontSize="23"></TextBlock>
+        <TextBox Grid.Row="1" Grid.Column="2" Grid.ColumnSpan="4" VerticalAlignment="Center" FontSize="25" x:Name="IpKey"></TextBox>
+        <TextBlock Grid.Row="2" Grid.ColumnSpan="2" HorizontalAlignment="Center" VerticalAlignment="Center" Text="Количество токенов:" FontSize="23"></TextBlock>
+        <TextBox Grid.Row="2" Grid.Column="2" Grid.ColumnSpan="4" VerticalAlignment="Center" FontSize="25" x:Name="Tokens"></TextBox>
+    </Grid>
+</Window>
