@@ -22,8 +22,11 @@
         <StackPanel Grid.Row="1" Grid.ColumnSpan="4" Grid.RowSpan="2" Background="Gray"></StackPanel>
         <StackPanel Grid.ColumnSpan="4" Background="Black"></StackPanel>
         <TextBlock Grid.Row="1" FontSize="25" x:Name="Answer" Grid.ColumnSpan="4" Margin="10" Background="LightGray"></TextBlock>
-        <TextBox Grid.Row="2" Grid.ColumnSpan="3" Margin="10 25" FontSize="25" Background="LightGray" x:Name="Requ"></TextBox>
-        <Button FontSize="20" Background="White" Grid.Column="3" Grid.Row="2" Margin="10 25" Content="Создать план" ></Button>
+        <TextBlock Grid.Row="2" VerticalAlignment="Center" Text="Создать план на " FontSize="20"></TextBlock>
+        <TextBlock Grid.Row="2" VerticalAlignment="Center" Grid.Column="1" Grid.ColumnSpan="2" HorizontalAlignment="Center" Text="для" FontSize="20"></TextBlock>
+        <ComboBox Grid.Row="2" Grid.Column="1" Margin="15 25" FontSize="25" x:Name="Predmet"></ComboBox>
+        <ComboBox Grid.Row="2" Grid.Column="2" Margin="15 25" FontSize="25" x:Name="Klass"></ComboBox>
+        <Button FontSize="20" Background="White" Grid.Column="3" Grid.Row="2" Margin="10 25" Content="Создать план" Click="Button_Click" ></Button>
         <Button Content="Настройки" Grid.Column="3" FontSize="25" Margin="10 25" Background="White" Click="Options_Button_Click"></Button>
     </Grid>
 </Window>

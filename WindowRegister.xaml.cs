@@ -27,6 +27,16 @@ namespace Programm_with_ChatGPT
         public WindowRegister()
         {
             InitializeComponent();
+            Window1 window1 = new Window1();
+            window1.IpKey.Text = "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";
+            Predmet.Items.Add("Математику");
+            Predmet.Items.Add("Русский");
+            Predmet.Items.Add("Румынский");
+            Predmet.Items.Add("Информатику");
+            Klass.Items.Add("1-ого класса");
+            Klass.Items.Add("2-ого класса");
+            Klass.Items.Add("3-ого класса");
+            Klass.Items.Add("4-ого класса");
             BeginInit();
         }
         public static string first_quation = "Выпиши мне текст из этого файла";
