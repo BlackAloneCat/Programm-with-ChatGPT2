@@ -29,10 +29,10 @@ namespace Programm_with_ChatGPT
             InitializeComponent();
             Window1 window1 = new Window1();
             window1.IpKey.Text = "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";
-            Predmet.Items.Add("Математику");
-            Predmet.Items.Add("Русский");
-            Predmet.Items.Add("Румынский");
-            Predmet.Items.Add("Информатику");
+            Predmet.Items.Add("Математике");
+            Predmet.Items.Add("Русскому");
+            Predmet.Items.Add("Румынскому");
+            Predmet.Items.Add("Информатике");
             Klass.Items.Add("1-ого класса");
             Klass.Items.Add("2-ого класса");
             Klass.Items.Add("3-ого класса");
@@ -55,7 +55,7 @@ namespace Programm_with_ChatGPT
             var chat = api.Chat.CreateConversation();
 
             /// give instruction as System
-            chat.AppendSystemMessage(Requ.Text);
+            chat.AppendSystemMessage($"Создай план по {Predmet.Text} для {Klass.Text}");
 
             // and get the response
             string response = await chat.GetResponseFromChatbotAsync();
